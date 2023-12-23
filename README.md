@@ -1,2 +1,4 @@
 # Calculator
-<h4>This is a normal calculator which can add,substract, multiply and divide</h4>
+<h4>This is a normal calculator</h4>
+<br>
+<h1>Author: Goutam Kumar<h1>
